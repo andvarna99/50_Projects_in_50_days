@@ -16,3 +16,5 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 - clicking the next button transitions the circles to the next number
 - when we get to the last one the next button becomes disabled
 - when we get to the first one the previous button becomes disabled
+
+![progress steps gif](gifs/progress_steps.gif)
