@@ -33,3 +33,9 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 - when you toggle the search icon the search field expands and collapses
 
 ![hidden search widget](gifs/hidden_search_widget.gif)
+
+### Project 5: Blurry Loading Page
+
+- Javascript, CSS, and HTML
+- when you reload the page, the image blurs completely then the image unblurs 
+- the loading text appears opaque and becomes transparent as the page reloads 
