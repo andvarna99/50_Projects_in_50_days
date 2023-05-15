@@ -40,8 +40,20 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 - when you reload the page, the image blurs completely then the image unblurs 
 - the loading text appears opaque and becomes transparent as the page reloads 
 
+![blurry landing page](gifs/blurry_loading_page.gif)
+
 ### Project 6: Scrolling Animation
 
 - used Javascript, CSS, and HTML
 - when you scroll down the cards come in from the left and right
 - when you scroll back up the class for the cards gets removed and the cards animate off the screen
+
+![scrolling animation](gifs/scroll_animation.gif)
+
+### Project 7: Split Landing Page
+
+- used Javascript, CSS, and HTML
+- when you hover over one side the content expands to 75% of the screen
+- when you hover on the other side the content collapses and the new side expands
+
+![split landing page](gifs/split_landing_page.gif)
