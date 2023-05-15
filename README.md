@@ -36,6 +36,12 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 
 ### Project 5: Blurry Loading Page
 
-- Javascript, CSS, and HTML
+- used Javascript, CSS, and HTML
 - when you reload the page, the image blurs completely then the image unblurs 
 - the loading text appears opaque and becomes transparent as the page reloads 
+
+### Project 6: Scrolling Animation
+
+- used Javascript, CSS, and HTML
+- when you scroll down the cards come in from the left and right
+- when you scroll back up the class for the cards gets removed and the cards animate off the screen
