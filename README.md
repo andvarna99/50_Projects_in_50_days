@@ -57,3 +57,11 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 - when you hover on the other side the content collapses and the new side expands
 
 ![split landing page](gifs/split_landing_page.gif)
+
+### Project 8: Form Wave Animation
+
+- used Javascript, CSS, and HTML
+- when you click on the label of the form the label moves up with a wave effect
+- when you click away the label moves back down with the wave effect
+
+![form wave animation](gifs/form_wave_animation.gif)
