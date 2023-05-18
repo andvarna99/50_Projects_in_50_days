@@ -72,3 +72,8 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 - user can click on each one of the buttons and a different sound will play based on the description
 
 ![sound board](gifs/sound_board.gif)
+
+### Project 10: Dad Jokes App
+
+- used Javascript, CSS, HTML, and the icanhazdadjoke API
+- 
