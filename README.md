@@ -65,3 +65,10 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 - when you click away the label moves back down with the wave effect
 
 ![form wave animation](gifs/form_wave_animation.gif)
+
+### Project 9: Sound Board
+
+- used Javascript, CSS, and HTML
+- user can click on each one of the buttons and a different sound will play based on the description
+
+![sound board](gifs/sound_board.gif)
