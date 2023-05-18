@@ -10,6 +10,7 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 
 ![expanding cards gif](gifs/expanding_cards.gif)
 
+
 ### Project 2: Progress Steps
 
 - used Javascript, CSS, and HTML
@@ -19,6 +20,7 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 
 ![progress steps gif](gifs/progress_steps.gif)
 
+
 ### Project 3: Rotating Navigation
 
 - used Javascript, CSS, and HTML
@@ -27,12 +29,14 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 
 ![rotating navigation gif](gifs/rotating_navigation.gif)
 
+
 ### Project 4: Hidden Search Widget
 
 - used Javascript, CSS, and HTML
 - when you toggle the search icon the search field expands and collapses
 
 ![hidden search widget](gifs/hidden_search_widget.gif)
+
 
 ### Project 5: Blurry Loading Page
 
@@ -42,6 +46,7 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 
 ![blurry landing page](gifs/blurry_loading_page.gif)
 
+
 ### Project 6: Scrolling Animation
 
 - used Javascript, CSS, and HTML
@@ -49,6 +54,7 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 - when you scroll back up the class for the cards gets removed and the cards animate off the screen
 
 ![scrolling animation](gifs/scroll_animation.gif)
+
 
 ### Project 7: Split Landing Page
 
@@ -58,6 +64,7 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 
 ![split landing page](gifs/split_landing_page.gif)
 
+
 ### Project 8: Form Wave Animation
 
 - used Javascript, CSS, and HTML
@@ -66,14 +73,18 @@ Projects from the 50 Projects in 50 days course taken through Udemy
 
 ![form wave animation](gifs/form_wave_animation.gif)
 
+
 ### Project 9: Sound Board
 
 - used Javascript, CSS, and HTML
 - user can click on each one of the buttons and a different sound will play based on the description
 
-![sound board](gifs/sound_board.gif)
 
 ### Project 10: Dad Jokes App
 
 - used Javascript, CSS, HTML, and the icanhazdadjoke API
-- 
+- clicking on the "Get Anonther Joke" button generates a new dad joke
+
+![dad jokes](gifs/dad_jokes_app.gif)
+
+
